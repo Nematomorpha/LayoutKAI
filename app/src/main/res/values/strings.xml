@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">My Application</string>
+
+    <string-array name="kelas">
+        <item>semua</item>
+        <item>Ekonomi</item>
+        <item>Bisnis</item>
+        <item>Esekutif</item>
+    </string-array>
+
+    <string-array name="penumpang">
+        <item>select</item>
+        <item>1 penumpang</item>
+        <item>2 penumpang</item>
+        <item>3 penumpang</item>
+        <item>4 penumpang</item>
+        <item>5 penumpang</item>
+    </string-array>
+
+    <string-array name="bayi">
+        <item>0 bayi</item>
+        <item>1 bayi</item>
+        <item>2 bayi</item>
+        <item>3 bayi</item>
+        <item>4 bayi</item>
+    </string-array>
+
+
+    <string name="gender_L">Laki- Laki</string>
+    <string name="gender_P">Perempuan</string>
+
+</resources>
